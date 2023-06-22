@@ -1,0 +1,8 @@
+word
+human
+vector
+raincoat
+football
+room
+table
+face
